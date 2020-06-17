@@ -1,0 +1,1 @@
+Using the skills learned so far, this is the Index, portfolio and contact.html files created.
